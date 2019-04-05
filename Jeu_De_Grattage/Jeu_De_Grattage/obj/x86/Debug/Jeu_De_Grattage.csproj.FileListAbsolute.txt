@@ -1,0 +1,4 @@
+U:\SLAM_4\Jeu_De_Grattage\Jeu_De_Grattage\bin\Debug\Jeu_De_Grattage.exe
+U:\SLAM_4\Jeu_De_Grattage\Jeu_De_Grattage\bin\Debug\Jeu_De_Grattage.pdb
+U:\SLAM_4\Jeu_De_Grattage\Jeu_De_Grattage\obj\x86\Debug\Jeu_De_Grattage.exe
+U:\SLAM_4\Jeu_De_Grattage\Jeu_De_Grattage\obj\x86\Debug\Jeu_De_Grattage.pdb
